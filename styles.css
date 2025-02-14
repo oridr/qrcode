@@ -44,7 +44,8 @@ body {
 	max-width: 20rem;
 	width: calc(100% - 1.71875rem);
 	margin-inline: auto;
-	padding: 1rem;
+	padding-inline: 1rem;
+	padding-block: 1rem 2.5rem;
 	background: white;
 	border-radius: 1.25rem;
 	text-align: center;
